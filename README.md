@@ -130,8 +130,19 @@
   - [5.1 Technical requirements]()
   - [5.2 Constraint satisfaction in search problems]()
   - [5.3 Solving the N-Queens problem]()
+    - [5.3.1 Solution representation]()
+    - [5.3.2 Python problem representation]()
+    - [5.3.3 Genetic algorithms solution]()
   - [5.4 Solving the Nurse scheduling problem]()
+    - [5.4.1 Solution representation]()
+    - [5.4.2 Hard constraints versus soft constraints]()
+    - [5.4.3 Python problem representation]()
+    - [5.4.4 Genetic algorithms solution]()
   - [5.5 Solving the graph coloring problem]()
+    - [Solution representation
+    - Using hard and soft constraints for the graph coloring problem
+    - Python problem representation
+    - Genetic algorithms solution
 - [6. Optimizing Continuous Functions]()
   - [6.1 Technical requirements]()
   - [6.2 Chromosomes and genetic operators for real numbers]()
