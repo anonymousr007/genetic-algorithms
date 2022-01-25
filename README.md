@@ -55,6 +55,45 @@
   - [6.5 Optimizing Himmelblau's function]()
   - [6.6 Simionescu's function and constrained optimization]()
 
+### Section 3: Artificial Intelligence Applications of Genetic Algorithms
+
+- [7. Enhancing Machine Learning Models Using Feature Selection]()
+  - [7.1 Technical requirements]()
+  - [7.2 Supervised machine learning]()
+  - [7.3 Feature selection in supervised learning]()
+  - [7.4 Selecting the features for the Friedman-1 regression problem]()
+  - [7.5 Selecting the features for the classification Zoo dataset]()
+- [8. Hyperparameter Tuning of Machine Learning Models]()
+  - [8.1 Technical requirements]()
+  - [8.2 Hyperparameters in machine learning]()
+  - [8.3 Tuning the hyperparameters using a genetic grid search]()
+  - [8.4 Tuning the hyperparameters using a direct genetic approach]()
+- [9. Architecture Optimization of Deep Learning Networks]()
+  - [9.1 Technical requirements]()
+  - [9.2 Artificial neural networks and deep learning]()
+  - [9.3 Optimizing the architecture of a deep learning classifier]()
+  - [9.4 Combining architecture optimization with hyperparameter tuning]()
+- [10. Reinforcement Learning with Genetic Algorithms]()
+  - [10.1 Technical requirements]()
+  - [10.2 Reinforcement learning]()
+  - [10.3 OpenAI Gym]()
+  - [10.4 Solving the MountainCar environment]()
+  - [10.5 Solving the CartPole environment]()
+
+### Section 4: Related Technologies
+
+- [11. Genetic Image Reconstruction]()
+  - [11.1 Technical requirements]()
+  - [11.2 Reconstruction images with polygons]()
+  - [11.3 Image processing in Python]()
+  - [11.4 Using genetic algorithms to reconstruct images]()
+- [12. Other Evolutionary and Bio-Inspired Computation Techniques]()
+  - [12.1 Technical requirements]()
+  - [12.2 Evolutionary computation and bio-inspired computing]()
+  - [12.3 Genetic programming]()
+  - [12.4 Particle swarm optimization]()
+  - [12.5 Other related techniques]()
+
 ## References
 
 - 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐨𝐧 𝐆𝐞𝐧𝐞𝐭𝐢𝐜 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬: https://github.com/anonymousr007/genetic-algorithms
