@@ -1,5 +1,7 @@
 # Genetic Algorithms
 
+![Genetic Algorithms](https://github.com/anonymousr007/genetic-algorithms/blob/main/Images/1_k3BNXRCK5RkHV91rQK06jw.jpeg)
+
 > Genetic Algorithms are a family of search algorithms inspired by the principles of evolution in nature. By imitating the process of natural selection and reproduction, genetic algorithms can produce high-quality solutions for various problems involving search, optimization, and learning. At the same time, their analogy to natural evolution allows genetic algorithms to overcome some of the hurdles that are encountered by traditional search and optimization algorithms, especially for problems with a large number of parameters and complex mathematical representations.
 
 ## Table of Contents 
