@@ -1,9 +1,8 @@
 # Genetic Algorithms
 
+> Genetic Algorithms are a family of search algorithms inspired by the principles of evolution in nature. By imitating the process of natural selection and reproduction, genetic algorithms can produce high-quality solutions for various problems involving search, optimization, and learning. At the same time, their analogy to natural evolution allows genetic algorithms to overcome some of the hurdles that are encountered by traditional search and optimization algorithms, especially for problems with a large number of parameters and complex mathematical representations.
+
 ## Table of Contents 
-
-Genetic Algorithms are a family of search algorithms inspired by the principles of evolution in nature. By imitating the process of natural selection and reproduction, genetic algorithms can produce high-quality solutions for various problems involving search, optimization, and learning. At the same time, their analogy to natural evolution allows genetic algorithms to overcome some of the hurdles that are encountered by traditional search and optimization algorithms, especially for problems with a large number of parameters and complex mathematical representations.
-
 
 ### Section 1: The Basics of Genetic Algorithms
 
@@ -54,3 +53,9 @@ Genetic Algorithms are a family of search algorithms inspired by the principles 
   - [6.5 Optimizing Himmelblau's function]()
   - [6.6 Simionescu's function and constrained optimization]()
 
+## References
+
+- 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐨𝐧 𝐆𝐞𝐧𝐞𝐭𝐢𝐜 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬: https://github.com/anonymousr007/genetic-algorithms
+- 𝐃𝐄𝐀𝐏 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: https://github.com/DEAP/deap
+- 𝐃𝐨𝐜𝐬 𝐨𝐟 𝐃𝐄𝐀𝐏 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: https://deap.readthedocs.io/en/master
+- 𝐖𝐢𝐤𝐢𝐩𝐞𝐝𝐢𝐚 𝐨𝐟 𝐆𝐞𝐧𝐞𝐭𝐢𝐜 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬: https://en.wikipedia.org/wiki/Genetic_algorithm
