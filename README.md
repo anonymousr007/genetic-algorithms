@@ -265,3 +265,5 @@
 - 𝐃𝐄𝐀𝐏 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: https://github.com/DEAP/deap
 - 𝐃𝐨𝐜𝐬 𝐨𝐟 𝐃𝐄𝐀𝐏 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: https://deap.readthedocs.io/en/master
 - 𝐖𝐢𝐤𝐢𝐩𝐞𝐝𝐢𝐚 𝐨𝐟 𝐆𝐞𝐧𝐞𝐭𝐢𝐜 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬: https://en.wikipedia.org/wiki/Genetic_algorithm
+- 𝐋𝐢𝐧𝐤𝐞𝐝𝐢𝐧 𝐏𝐨𝐬𝐭 𝐏𝐚𝐫𝐭-1: https://www.linkedin.com/posts/anonymousr007_computing-algorithms-startup-activity-6891668751045980160-4UTx
+- 𝐋𝐢𝐧𝐤𝐞𝐝𝐢𝐧 𝐏𝐨𝐬𝐭 𝐏𝐚𝐫𝐭-2: https://www.linkedin.com/posts/anonymousr007_computing-deeplearning-algorithms-activity-6892040549533040640-CUeW
